@@ -31,7 +31,6 @@ main {
   background-color: #e4dcd1;
   margin: 100px 100px;
   padding: 30px 20px;
-  
 }
 .section {
   display: flex;
@@ -58,6 +57,7 @@ main {
 .buttons button h1 {
   font-size: 20px;
   font-family: "Poppins", sans-serif;
+  color: #000;
 }
 .buttons button {
   padding: 5px;
@@ -85,12 +85,18 @@ main {
 }
 .insta-contact h2 {
   font-size: 20px;
+  color: #000;
 }
 
+.phone-number {
+  color: #000;
+  text-decoration: none;
+}
 .contact {
   font-family: "Poppins", sans-serif;
   margin-bottom: 10px;
   font-size: 20px;
+  color: #000;
 }
 
 @media screen and (max-width: 1200px) {
