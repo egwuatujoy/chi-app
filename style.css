@@ -28,7 +28,7 @@ header {
   margin-bottom: 100px;
 }
 main {
-  background-color: #e4dcd1;
+  background-color: #654321;
   margin: 100px 100px;
   padding: 30px 20px;
 }
@@ -42,7 +42,6 @@ main {
 
 .main-img {
   width: 300px;
-  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
   margin-bottom: 50px;
 }
 
@@ -68,12 +67,15 @@ main {
 
 .buttons button:hover {
   box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
-  border: 3px solid #f6f1e3;
+  border: 3px solid #d2b48cb7;
 }
 
 .intro {
   font-size: 20px;
   text-align: center;
+  background-color: #d2b48ca0;
+  padding: 20px;
+  border-radius: 10px;
 }
 
 .insta-contact {
@@ -93,7 +95,7 @@ main {
   font-family: "Poppins", sans-serif;
   margin-bottom: 10px;
   font-size: 20px;
-  color: #000;
+  color:#D2B48C;
 }
 
 @media screen and (max-width: 1200px) {
